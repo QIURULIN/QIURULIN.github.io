@@ -5,40 +5,40 @@ description: "try my best"
 logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
 locale: en
-url:
-feed:
+url: 
+feed: 
   path: atom.xml
 
 # Jekyll configuration
 
-sass:
+sass: 
   sass_dir: _sass
   style: compressed
 permalink: /:categories/:title/
-kramdown:
+kramdown: 
   toc_levels: 1..2
 highlighter: rouge
-gems:
+gems: 
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
 
 
 # Site owner
-owner:
+owner: 
   name: qiurulin
   email: qiurulin@qq.com
   twitter: qiurulin
-    ad-client:
-    ad-slot:
+    ad-client:  
+    ad-slot: 
   bio: 
   avatar: 邱汝琳，中山大学南方学院 网络与新媒体1班
-  disqus-shortname:
+  disqus-shortname: 
 
 
-include:
+include: 
   - .htaccess
-exclude:
+exclude: 
   - "*.less"
   - "*.sublime-project"
   - "*.sublime-workspace"
