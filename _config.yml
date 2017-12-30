@@ -26,12 +26,12 @@ gems:
 
 # Site owner
 owner:
-  name:qiurulin
-  email:qiurulin@qq.com
-  twitter:qiurulin
+  name: qiurulin
+  email: qiurulin@qq.com
+  twitter: qiurulin
     ad-client:
     ad-slot:
-  bio:
+  bio: 
   avatar: 邱汝琳，中山大学南方学院 网络与新媒体1班
   disqus-shortname:
 
