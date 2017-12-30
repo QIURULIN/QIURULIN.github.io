@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "最新文章"
+title: "New Article"
 ---
 
 <div class="tiles">
