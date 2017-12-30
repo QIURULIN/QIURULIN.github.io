@@ -1,21 +1,17 @@
 # Site navigation links
 
 - title:信息可视化作品集
-  url:
   excerpt:"Tableau"
   image:信息可视化.gif
   
 - title:网页设计与制作作品集
-  url:
   excerpt:"HTML5"
   image:HTML5.jpg
   
 - title:文章
-  url:
   excerpt:"笔记"
   image:文章 笔记.gif
   
 - title:contact 
-  url:
   excerpt:"联络我"
   image:地球.gif
