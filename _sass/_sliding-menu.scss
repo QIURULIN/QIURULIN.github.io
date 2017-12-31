@@ -37,7 +37,7 @@
   z-index: 20;
   box-sizing: border-box;
   &:hover {
-    background: $Aquamarine;
+    background: $Lavender;
   }
   transition: $sliding-menu-animation;
   &.slide {
@@ -142,7 +142,7 @@
     }
     a:hover .teaser {
       opacity: 1;
-	  border: 3px solid Aquamarine1
+	  border: 3px solid $Lavender
     }
     .title {
       display: block;
@@ -165,7 +165,7 @@
       }
     }
 	.title:hover,.excerpt:hover,.teaser:hover{
-	    color: Aquamarine;
+	    color: $Lavender;
 	}
   }
   .sub-menu-item > li a {
