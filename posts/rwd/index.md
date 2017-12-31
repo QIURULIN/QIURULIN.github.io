@@ -13,7 +13,7 @@ image:
 在此展示可持续发展目标内容简绍及思考
 
 <div class="tiles">
-{% for post in site.categories.文章 WEB 分类 %}
+{% for post in site.categories.rwd %}
   {% include post-grid.html %}
 {% endfor %}
-</div><!-- /.tiles 把所有categories 有 文章 WEB 分类 的列出来-->
+</div><!-- /.tiles 把所有categories 有 rwd 的列出来-->
