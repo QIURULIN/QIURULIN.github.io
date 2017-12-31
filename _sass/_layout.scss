@@ -73,16 +73,13 @@
 			}
 			&:after {
 				width: 0;
-				background-color: $CornflowerBlue;
+				background: $CornflowerBlue;
 			}
 			&:active:after,
 			&:hover:after {
 				width: 100%;
 			}
-			&:hover {
-				color: $LightBLue;
-				background-color: $CornflowerBlue;
-			}
+
 		}
 	}
 }
