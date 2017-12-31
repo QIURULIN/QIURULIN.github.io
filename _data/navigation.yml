@@ -10,15 +10,15 @@
   excerpt: "web"
   image: HTML5.jpg
   
-- title: 文章 信息可视化笔记 分类
+- title: 文章 信息可视化笔记
   url: /_posts/infovis/
   excerpt: "信息可视化笔记"
   image: 文章 笔记.gif
   
   
-- title: 文章 Web 分类 
-  url: /_posts/rwd/
-  excerpt: "Web "
+- title: 文章 Web 分类
+  url: /_post/rwd/
+  excerpt: "Web 分类"
   image: 文章 笔记.gif 
  
 - title: Contact 
