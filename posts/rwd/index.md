@@ -1,9 +1,9 @@
  ---
 layout: archive
-title: "可持续发展目标"
-date: 2017-12-30T11:40:45-04:00
+title: "网页设计与制作"
+date: 2017-12-11T11:40:45-04:00
 modified:
-excerpt: "可持续发展，含＂生态文明＂倡议"
+excerpt: "HTML，响应式WEB设计
 tags: []
 image: 
   feature: 300x200.gif
