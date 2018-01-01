@@ -26,10 +26,11 @@ gems:
 
 # Site owner
 owner: 
-  name: qiurulin
+  name: 邱汝琳
   email: qiurulin@qq.com
   twitter: qiurulin
   avatar: vv.jpg
+  bio:网络与新媒体学生
   disqus-shortname: 
 
 
