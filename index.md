@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "让我去学习"
+title: "学习使我快乐"
 ---
 
 <div class="tiles">
