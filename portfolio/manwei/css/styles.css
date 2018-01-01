@@ -1,0 +1,117 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	padding: 1rem .5rem;
+	font-size: 1.3rem;
+	line-height: 1.2;
+	max-width: 60rem;
+	margin: 0 auto;
+	color: #0000CD ;
+}
+
+img {
+	max-width: 100%;
+}
+
+.Header {
+	text-align: center;
+	border-bottom: 8px double #f9f9f9;
+	margin-bottom: 2rem;
+	padding-bottom: 1rem;
+	color: #DAA520  ;
+}
+
+.Strap {
+	font-size: 1rem;
+	font-family:"宋体;
+}
+
+
+.MoneyShot {
+	position: relative;
+}
+
+.MoneyShotImg {
+	border: 6px solid #e8cfa9;
+	border-radius: 4px;
+}
+
+.LogoWrapper {
+	display: block;
+}
+
+.ImageCaption {
+	font-size: .75rem;
+	position: absolute;
+	bottom: .5rem;
+	right: 1rem;
+}
+
+.IntroText {
+	font-size: 1.8rem;
+	font-style: normal;
+	font-family:"黑体;
+}
+
+.MethodWrapper li {
+	padding: .4rem 0;
+}
+
+.MethodWrapper li:after {
+	content: "✼";
+	display: block;
+	text-align: center;
+	margin: 1rem 0 .5rem 0;
+	color: 	#2200AA ;
+}
+
+@media screen and (min-width: 50rem) {
+	body {
+		border-left: 4px solid #f9f9f9;
+		border-right: 4px solid #f9f9f9;
+		padding: 1rem 2rem;
+		color: #A42D00 ;
+	}
+
+	.IntroWrapper {
+		display: table;
+		table-layout: fixed;
+		width: 100%;
+		color: #BB5500 ;
+		font-family:"楷体";
+	}
+
+	.MoneyShot,
+	.IntroText {
+		display: table-cell;
+		width: 100%;
+		vertical-align: middle;
+		text-align: center;
+		color: 	#E63F00;
+	}
+
+	.IntroText {
+		padding: .5rem;
+		font-size: 2.5rem;
+		text-align: center;
+		position: relative;
+		color: #FF0000;
+	}
+
+	.大事件 {
+		font-size: .9rem;
+		float: center;
+		padding: 1rem;
+		margin: 0 0 .5rem 1rem;
+		border-radius: 3px;
+		background-color: #ffffdf;
+		border: 2px solid #e8cfa9;
+		color: 	#E63F00;
+	}
+
+	.大事件 h3 {
+		margin: 0;
+	}
+}
