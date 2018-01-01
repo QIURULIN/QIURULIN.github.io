@@ -24,18 +24,19 @@ $border-radius               	: 3px;
 $white                        : #fff; 
 $black                        : #000;
 $CornflowerBlue               : #6495ED;
-$cream                        : #FFFACD;
+$LemonChiffon                 : #FFFACD;
+$Wheat                        : #F5DEB3;
 $body-color                  	: #ebebeb;
 
 $text-color                  	: #313130;
 $caption-color                : mix($white, $text-color, 25%);
 
-$base-color                  	: $CornflowerBlue;
+$base-color                  	: #6495ED;
 $comp-color                  	: complement($base-color);
 $border-color                	: #ddd;
 $link-color                  	: #222;
 
-$primary-color               	: $CornflowerBlue;
+$primary-color               	: #6495ED;
 $success-color               	: #2ecc71;
 $warning-color               	: #f1c40f;
 $danger-color                	: #e74c3c;
@@ -81,11 +82,11 @@ $form-font-size              	: $doc-font-size;
    Sliding menu navigation variables
    ========================================================================== */
 
-$sliding-menu-border-color	 	   : $CornflowerBlue;
-$sliding-menu-background 		   : $CornflowerBlue;
+$sliding-menu-border-color	 	   : $black;
+$sliding-menu-background 		   : $black;
 $sliding-menu-color 	 		   : $white;
 $sliding-menu-background-hover     : $black;
-$sliding-menu-color-hover	 	   : $CornflowerBlue;
+$sliding-menu-color-hover	 	   : $LemonChiffon;
 $sliding-menu-border   			   : 1px solid $sliding-menu-border-color;
 $button-size		         	   : 30px;
 $transition						   : 0.3s; // increase this to see the transformations in slow-motion
