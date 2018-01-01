@@ -6,13 +6,14 @@
 .tabs label {
 	order: 1; /* Put the labels first*/
 	display: block;
-	width: 160px;
-	height: 100px;
+	width: 265px;
+	height: 70px;
 	margin-right: 0.2rem;
 	cursor: pointer;
   background: #c6c3ff;
   font-weight: 700;
 	font-size: 1.25rem;
+	text-align: center
   transition: background ease 0.2s;
 }
 
