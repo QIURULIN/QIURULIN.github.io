@@ -6,8 +6,8 @@
 .tabs label {
 	order: 1; /* Put the labels first*/
 	display: block;
-	width:160px;
-	height:100px;
+	width: 160px;
+	height: 100px;
 	margin-right: 0.2rem;
 	cursor: pointer;
   background: #c6c3ff;
