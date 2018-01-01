@@ -6,11 +6,11 @@
 .tabs label {
 	order: 1; /* Put the labels first*/
 	display: block;
-	width:300px;
+	width:160px;
 	height:100px;
 	margin-right: 0.2rem;
 	cursor: pointer;
-  background: #90CAF9;
+  background: #c6c3ff;
   font-weight: 700;
 	font-size: 1.25rem;
   transition: background ease 0.2s;
@@ -22,7 +22,7 @@
 	width: 100%;
 	display: none;
   padding: 1rem;
-  background: #fff;
+  background: #a4f4f9";
 }
 .tabs input[type="radio"] {
 	display: none;
@@ -53,7 +53,7 @@
  * Generic Styling
 */
 body {
-  background: #eee;
+  background: #a4f4f9;
   min-height: 100vh;
 	box-sizing: border-box;
 	padding-top: 10vh;
