@@ -3,23 +3,23 @@
 - title: 信息可视化作品集
   url: /infovis/
   excerpt: "Tableau"
-  image: 信息可视化.gif
+  image: 0.gif
   
 - title: 网页设计与制作作品集
   url: /portfolio/
   excerpt: "web"
-  image: HTML5.jpg
+  image: 1.jpg
   
 - title: 文章（信息可视化分类）
   url: /posts/infovis/
   excerpt: "visualization"
-  image: 文章 笔记.gif
+  image: 00.gif
   
   
 - title: 文章（网页设计分类）
   url: /posts/rwd/
   excerpt: "Web"
-  image: s.jpg 
+  image: 000.jpg 
  
 - title: Contact 
   url: /Contact Me/
