@@ -79,9 +79,7 @@
 			&:hover:after {
 				width: 100%;
 			}
-            &:hover {
-			      color: $CornflowerBlue;
-				  background-color: $White; 
+
 		}
 	}
 }
@@ -110,7 +108,7 @@
 			font-weight: 700;
 			@include font-size(16,no);
 			line-height: .5 * $masthead-height; // half the height to center vertically
-			color: #595959;
+			color: $black;
 			text-transform: uppercase;
 		}
 	}
