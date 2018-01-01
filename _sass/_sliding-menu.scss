@@ -37,7 +37,7 @@
   z-index: 20;
   box-sizing: border-box;
   &:hover {
-    background: $black;
+    background: $Wheat;
   }
   transition: $sliding-menu-animation;
   &.slide {
@@ -142,6 +142,7 @@
     }
     a:hover .teaser {
       opacity: 1;
+	  border: 3px solid $Wheat
     }
     .title {
       display: block;
@@ -162,6 +163,9 @@
         margin-left: 170px;
         @include font-size(16,no);
       }
+    }
+	 .title:hover,.excerpt:hover,.teaser:hover{
+        color: $Wheat;
     }
   }
   .sub-menu-item > li a {
