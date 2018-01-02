@@ -79,7 +79,9 @@
 			&:hover:after {
 				width: 100%;
 			}
-
+            &:hover {
+			    color: $CornflowerBlue;
+				background-color: #Wheat;}
 		}
 	}
 }
