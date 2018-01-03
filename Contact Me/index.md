@@ -10,5 +10,6 @@ categories: contact
  + 学习使我快乐
  
 #不解释。。。看图说话
+
  <img src="https://qiurulin.github.io/images/学习使我快乐.jpg">
  <img src="https://qiurulin.github.io/images/让我去学习.jpeg">
