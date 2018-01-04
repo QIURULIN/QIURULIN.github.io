@@ -4,8 +4,8 @@ title:  "CSS3"
 date:   2017-11-23 22:07:50 +0800
 categories: rwd 
 image:
-  teaser: c.jpg
-  feature: d.jpg
+  teaser: css3teaser.jpg
+  feature: css3feature.jpg
 excerpt: CSS 用于控制网页的样式和布局。CSS3 是最新的 CSS 标准。
 ---
 
