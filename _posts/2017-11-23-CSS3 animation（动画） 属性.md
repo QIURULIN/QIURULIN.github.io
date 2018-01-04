@@ -5,7 +5,6 @@ date:   2017-11-23 22:07:50 +0800
 categories: rwd 
 image:
   teaser: css3teaser.jpg
-  feature: css3feature.jpg
 excerpt: CSS 用于控制网页的样式和布局。CSS3 是最新的 CSS 标准。
 ---
 
@@ -24,4 +23,5 @@ excerpt: CSS 用于控制网页的样式和布局。CSS3 是最新的 CSS 标准
 
 ## 相关文章
 [CSS3 教程表](http://www.runoob.com/css3/css3-animations.html)
+
 [CSS3 参考手册](http://www.w3school.com.cn/cssref/index.asp)
