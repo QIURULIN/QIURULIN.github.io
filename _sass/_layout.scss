@@ -354,7 +354,15 @@
 	}
 }
 
- @media print {
+ /*
+    Printer Setup
+    ========================================================================== */
+ @page {
+   size: A4;
+   margin: 0;
+ }
+ 
+  @media print {
     #masthead, nav, button, html [type=button], .menu-screen {
          display: none;
      }
