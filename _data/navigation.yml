@@ -10,13 +10,13 @@
   excerpt: "web"
   image: 菜单栏portfolio.gif
   
-- title: 文章（信息可视化分类）
+- title: 信息可视化学习笔记
   url: /posts/infovis/
   excerpt: "visualization"
   image: 菜单栏postsinfovis.gif
   
   
-- title: 文章（网页设计分类）
+- title: 网页设计学习笔记
   url: /posts/rwd/
   excerpt: "Web"
   image: 菜单栏postsrwd.jpg 
