@@ -10,7 +10,7 @@ image:
   teaser:
 ---
 
-- <a href="https://public.tableau.com/profile/qiu2775#!/vizhome/2018-01-05-/3?publish=yes" target="_blank">![数据分析.png](https://qiurulin.github.io/images/数据分析.png)</a>
+- <a href="https://public.tableau.com/profile/qiu2775#!/vizhome/2018-01-05-/3?publish=yes" target="_blank">![数据分析.png](https://qiurulin.github.io/images/数据分析.jpg)</a>
 
 
 
